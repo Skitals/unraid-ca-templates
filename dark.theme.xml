@@ -13,5 +13,5 @@ No more bright colors or blinding whites on the unRAID webGUI. You can customize
 <Icon>https://raw.githubusercontent.com/Skitals/unraid-ca-templates/master/icons/dark.theme.png</Icon>
 <IconFA>file</IconFA>
 <DonateText>Beer Money Appreciated!</DonateText>
-<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UJ5NY6DETZ8V4&source=url</DonateLink>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=UJ5NY6DETZ8V4&amp;source=url</DonateLink>
 </Containers>
