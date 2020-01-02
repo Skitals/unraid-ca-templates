@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <PluginURL>https://raw.githubusercontent.com/Skitals/unraid-dark-plugin/master/plugins/dark.theme.plg</PluginURL>
-<PluginAuthor>Justin Nolan / skitals</PluginAuthor>
+<PluginAuthor>Justin Nolan / Skitals</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:Themes</Category>
 <Name>Dark Theme</Name>
