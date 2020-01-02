@@ -4,11 +4,14 @@
 <PluginAuthor>Justin Nolan / skitals</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:Themes</Category>
-<Name>Skital's Dark Theme</Name>
+<Name>Dark Theme</Name>
 <Description>
 A Dark Theme for the unRAID webGUI.
+No more bright colors or blinding whites on the unRAID webGUI. You can customize the grayscale/desauration of icons and images from the Settings - Dark Theme page. 
 </Description>
 <Support>https://forums.unraid.net/topic/86724-plugin-dark-theme-now-in-plugin-format/</Support>
-<Icon>http://www.graphicsfuel.com/wp-content/uploads/2012/03/folder-icon-512x512.png</Icon>
+<Icon>https://raw.githubusercontent.com/Skitals/unraid-ca-templates/master/icons/dark.theme.png</Icon>
 <IconFA>file</IconFA>
+<DonateText>Beer Money Appreciated!</DonateText>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UJ5NY6DETZ8V4&source=url</DonateLink>
 </Containers>
