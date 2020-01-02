@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<PluginURL>https://raw.githubusercontent.com/Skitals/unraid-dark-plugin/master/plugins/dark.theme.plg</PluginURL>
+<PluginAuthor>Justin Nolan / skitals</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:Themes</Category>
+<Name>Skital's Dark Theme</Name>
+<Description>
+A Dark Theme for the unRAID webGUI.
+</Description>
+<Support>https://forums.unraid.net/topic/86724-plugin-dark-theme-now-in-plugin-format/</Support>
+<Icon>http://www.graphicsfuel.com/wp-content/uploads/2012/03/folder-icon-512x512.png</Icon>
+<IconFA>file</IconFA>
+</Containers>
