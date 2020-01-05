@@ -6,8 +6,8 @@
 <Category>Tools:Themes</Category>
 <Name>Dark Theme</Name>
 <Description>
-A Dark Theme for the unRAID webGUI.
-No more bright colors or blinding whites on the unRAID webGUI. You can customize the grayscale/desauration of icons and images from the Settings - Dark Theme page. 
+A customizable Dark Theme for the unRAID webGUI.
+No more bright colors or blinding whites on the unRAID webGUI. You can customize colors and the grayscale/desauration of icons and images from the Settings - Dark Theme page. 
 </Description>
 <Support>https://forums.unraid.net/topic/86724-plugin-dark-theme-now-in-plugin-format/</Support>
 <Icon>https://raw.githubusercontent.com/Skitals/unraid-ca-templates/master/icons/dark.theme.png</Icon>
