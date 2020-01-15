@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<PluginURL>https://raw.githubusercontent.com/Skitals/unraid-vfio-pci/master/plugins/vfio.pci.plg</PluginURL>
+<PluginAuthor>Justin Nolan / Skitals</PluginAuthor>
+<Beta>True</Beta>
+<Category>Tools:System</Category>
+<Name>VFIO-PCI Config</Name>
+<Description>
+A plugin to create and modify vfio-pci.cfg from the unRAID webGui. Allows you to bind PCI devices by address to the vfio-pci driver. Also displays IOMMU groupings and which devices support reset.
+</Description>
+<Support>https://forums.unraid.net/topic/87411-plugin-vfio-pci-config/</Support>
+<Icon>https://raw.githubusercontent.com/Skitals/unraid-ca-templates/master/icons/vfio.pci.png</Icon>
+<IconFA>microchip</IconFA>
+<DonateText>Beer Money Appreciated!</DonateText>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=UJ5NY6DETZ8V4&amp;source=url</DonateLink>
+</Containers>
